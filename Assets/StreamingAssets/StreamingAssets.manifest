@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1226255177
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: setting.assetbundle
+      Dependencies:
+        Dependency_0: gameatlas.assetbundle
+    Info_1:
+      Name: gameatlas.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: help.assetbundle
+      Dependencies:
+        Dependency_0: gameatlas.assetbundle

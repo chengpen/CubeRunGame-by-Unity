@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 277172035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9566094271c2f5a4354d152d6eb19b2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a731bfa96bcf3f0474f706435403589
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/NGUI/Prefab/HelpPanel.prefab
+Dependencies:
+- E:/UnityProject/CubeRunGame/Assets/StreamingAssets/gameatlas.assetbundle

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeRunGame", "CubeRunGame.csproj", "{689A8F6C-998F-DB60-C072-86BFCE971013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeRunGame.Editor", "CubeRunGame.Editor.csproj", "{BA8C6EF9-102D-9986-EEF0-E0E7F7DCC8E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689A8F6C-998F-DB60-C072-86BFCE971013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689A8F6C-998F-DB60-C072-86BFCE971013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689A8F6C-998F-DB60-C072-86BFCE971013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689A8F6C-998F-DB60-C072-86BFCE971013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8C6EF9-102D-9986-EEF0-E0E7F7DCC8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8C6EF9-102D-9986-EEF0-E0E7F7DCC8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8C6EF9-102D-9986-EEF0-E0E7F7DCC8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8C6EF9-102D-9986-EEF0-E0E7F7DCC8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
